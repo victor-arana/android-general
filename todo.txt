@@ -1,0 +1,1 @@
+Study gradle dependencies managementInvestigate robo-test and firebase
